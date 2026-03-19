@@ -11,7 +11,7 @@ This can be used for any files, music etc, but my application was for movies.
 Zip up the files/folders and import as a .zip addon package.
 Once installed, the option to copy/move appears in the context menu of video files. Once you choose the copy/move context item, you will be prompted to select a destination path.  It will then start the transfer process giving you transfer progress .
 
-I am not going to bother with updating this so its published for KODI.  But, i did want to fork this and make it public so others can benifit from my initial work.
+I am not going to bother with updating this so its published for KODI.  But, i did want to fork this and make it public so others can benifit from my work.
 
 Technical :
 The copying functionality was moved out of PHP and into the KODI xbmcvfs.  
